@@ -1,5 +1,5 @@
 def num(let):
-    print(let, end=' ')
+    print(let, end='')
 
 
 num(8)
